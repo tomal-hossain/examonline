@@ -1,0 +1,30 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color: #F5F5F5;
+    font-size: 18px;
+    width: 100%;
+}
+#wrapper{
+    width: 90%;
+    margin: 50px auto;
+}
+#result{
+    width: 90%;
+    margin: 50px auto;
+}
+
+table{
+    text-align: center;
+    color: #284269;
+    width: 50%;
+}
+a{
+    background: green;
+    padding: 10px 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color:#F5F5F5;
+}
